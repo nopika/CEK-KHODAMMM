@@ -1,2 +1,2 @@
-# CEK-KHODAMMM
-Haiii cek khodamnya yaa
+# cek-khodam-v2
+cek khodam versi html + js
